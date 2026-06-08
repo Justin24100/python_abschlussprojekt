@@ -1,0 +1,7 @@
+username,name,abteilung,rolle,status
+amueller,Anna Müller,Buchhaltung,Mitarbeiter,aktiv
+mkaya,Mehmet Kaya,Vertrieb,Mitarbeiter,aktiv
+swagner,Sofia Wagner,IT,Administrator,aktiv
+jweber,Jonas Weber,Support,Mitarbeiter,aktiv
+lfischer,Lena Fischer,Außendienst,Mitarbeiter,gesperrt
+temp01,Temporärer Benutzer,Support,Praktikant,inaktiv

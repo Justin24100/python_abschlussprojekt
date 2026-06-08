@@ -1,0 +1,9 @@
+ticket_id,name,abteilung,problem,prioritaet,status
+1001,Anna Müller,Buchhaltung,Drucker druckt nicht,hoch,offen
+1002,Mehmet Kaya,Vertrieb,VPN Verbindung bricht ab,mittel,offen
+1003,Sofia Wagner,IT,Monitor zeigt kein Bild,niedrig,in_bearbeitung
+#--------------------------------------------------------------------------------
+
+
+
+9999,JUstin,Buchhaltung,Tastatur Defekt,hoch,offen

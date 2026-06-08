@@ -1,0 +1,18 @@
+Systemreport
+====================
+
+Datum und Uhrzeit:
+2026-06-08 19:34:12.838087
+
+Aktuelles Arbeitsverzeichnis:
+C:\Users\Justi\Desktop\tag_4_projekt
+
+Anzahl Dateien im Projektordner:
+3
+
+Ergebnis eines einfachen Systembefehls:
+gamingpc-justin\justi
+
+Zusammenfassung Logdatei:
+WARN gefunden: 2
+ERROR oder FAILED gefunden: 3
