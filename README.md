@@ -14,4 +14,4 @@ python main.py
 ## Abgabe
 =======
 # python_abschlussprojekt
->>>>>>> 6ec59dcc5516eac2ee839f634f6b9660a9539564
+
